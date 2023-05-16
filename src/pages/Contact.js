@@ -1,6 +1,5 @@
 /* eslint-disable jsx-a11y/iframe-has-title */
 import React from 'react'
-import Meta from '../components/common/Meta'
 import Container from '../components/common/Container'
 import {Box} from "@mui/material"
 import Form from '../components/common/Form'
@@ -8,7 +7,6 @@ import Form from '../components/common/Form'
 const Contact = () => {
     return (
         <>
-        <Meta title={'Contact'} />
             <Container>
                 <Box sx={{
                     marginRight:"1rem"

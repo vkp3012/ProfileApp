@@ -1,7 +1,6 @@
 /* eslint-disable react/jsx-no-comment-textnodes */
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React from 'react'
-import Meta from '../components/common/Meta'
 import { Box, Button, Typography} from "@mui/material";
 import Card from '@mui/material/Card';
 import CardActions from '@mui/material/CardActions';
@@ -14,7 +13,6 @@ import Container from '../components/common/Container';
 const Project = () => {
     return (
         <>
-            <Meta title={'Project'} />
             <Container>
                 <Box sx={{
                         width:"95%",

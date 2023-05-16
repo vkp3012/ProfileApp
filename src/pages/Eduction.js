@@ -1,5 +1,4 @@
 import React from 'react'
-import Meta from '../components/common/Meta'
 import Skills from './Skills'
 import Card from '@mui/material/Card';
 import CardActions from '@mui/material/CardActions';
@@ -11,7 +10,6 @@ const Education = () => {
 
     return (
         <>
-            <Meta title={"Eduction"}  />
             <Container>
                     <Typography 
                         component="h3"
