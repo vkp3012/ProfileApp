@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "title":"HTML",
+        "value":80
+    },
+    {
+        "id":2,
+        "title":"CSS",
+        "value":80
+    },
+    {
+        "id":3,
+        "title":"React JS",
+        "value":70
+    },
+    {
+        "id":4,
+        "title":"JavaScripts",
+        "value":65
+    },
+    {
+        "id":5,
+        "title":"Node Js",
+        "value":65
+    },
+    {
+        "id":6,
+        "title":"Bootstrap",
+        "value":70
+    }
+]
